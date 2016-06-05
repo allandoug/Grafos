@@ -1,0 +1,10 @@
+Questão 4.
+
+   A implementação usando Lista de Adjacências foi mais rápida, pois
+ o acesso a lista de vertices adjacentes a um determinado vertice é
+ O(1), enquanto que na implementação usando Matriz de Adjacências é
+ O(n) onde n é o número de vertices do grafo.
+   Não foi identificada diferênça significativa de tempo de execução 
+ entre os vertices em uma mesma implementação, isso se deve ao fato de 
+ que o número de vertices adjacentes a cada um dos vertices do grafo é igual.
+ 

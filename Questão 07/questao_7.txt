@@ -1,0 +1,9 @@
+﻿Questão 7.
+
+ O Grafo possui 5 componentes fortemente conexo, são eles:  
+ 
+ Componente fortemente conexo ( 1 ):  7 9
+ Componente fortemente conexo ( 2 ):  2 5 6
+ Componente fortemente conexo ( 3 ):  0 3 8
+ Componente fortemente conexo ( 4 ):  4
+ Componente fortemente conexo ( 5 ):  1
